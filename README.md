@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/LeonardoR3D/frontend-mentor-challenge-006.git]
-- Live Site URL: [https://leonardor3d.github.io/frontend-mentor-challenge-006/]
+- Live Site URL: [https://leonardor3d.github.io/FMC-06-Product-preview-card-component/]
 
 ## My process
 
